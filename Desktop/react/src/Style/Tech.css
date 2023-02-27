@@ -1,0 +1,15 @@
+*{
+    padding: 0; margin: 0;
+    box-sizing: border-box;
+    
+}
+nav{
+    background-color: violet;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 12px;
+    
+}
+.cancel,.saveT,.displayBtn{
+    cursor: pointer;
+}
